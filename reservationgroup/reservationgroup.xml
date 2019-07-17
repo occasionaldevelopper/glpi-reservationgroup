@@ -29,7 +29,11 @@
             </langs>
             <license>GPL v2+</license>
             <tags>
-
+		<en>
+			<tag>
+				Reservation, Group
+			</tag>
+		    </en>
             </tags>
             <screenshots>
 
