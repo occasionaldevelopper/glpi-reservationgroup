@@ -6,11 +6,9 @@
             <description>
                <short>
                   <en>Enable affectation of Reservation to group (only to user without plugin)</en>
-                  <lang>...</lang>
                </short>
                <long>
                   <en>Enable to create Reservation and affect it to a group (only to user without plugin)</en>
-                  <lang>...</lang>
                </long>
             </description>
             <homepage>https://github.com/occasionaldevelopper/glpi-reservationgroup</homepage>
@@ -28,7 +26,6 @@
             </versions>
             <langs>
                <lang>en_GB</lang>
-               <lang>...</lang>
             </langs>
             <license>GPL v2+</license>
             <tags>
