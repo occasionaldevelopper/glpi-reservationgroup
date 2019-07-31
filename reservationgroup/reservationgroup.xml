@@ -1,5 +1,5 @@
 		<root>
-            <name>Reservation fo Group</name>
+            <name>Reservation for Group</name>
             <key>reservationgroup</key>
             <state>stable</state> <!-- stable | unstable | beta | alpha -->
             <logo></logo>
